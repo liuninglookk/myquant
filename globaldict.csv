@@ -1,0 +1,7 @@
+Code,displ,country,tushare-code,cat,DBFile,TblName
+IXIC,纳斯达克,US,ixic,mkt,D:\PythonSpace\Dasboard_Quant\00_database\MyQuantGlobal.db,GLOBAL
+DJI,道琼斯,US,dji,mkt,D:\PythonSpace\Dasboard_Quant\00_database\MyQuantGlobal.db,GLOBAL
+sh000001,上证,CHN,sh000001,mkt,D:\PythonSpace\Dasboard_Quant\00_database\MyQuantGlobal.db,GLOBAL
+sz399001,深证,CHN,sz399001,mkt,D:\PythonSpace\Dasboard_Quant\00_database\MyQuantGlobal.db,GLOBAL
+sge_gold,上海金基准,CHN,sge-gold,mkt,D:\PythonSpace\Dasboard_Quant\00_database\MyQuantGlobal.db,GLOBAL
+BRN0Y,布伦特石油,US,BRN0Y,mkt,D:\PythonSpace\Dasboard_Quant\00_database\MyQuantGlobal.db,GLOBAL

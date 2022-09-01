@@ -1,0 +1,2 @@
+Code,displ,country,tushare-code,cat,DBFile,TblName
+USDCNH.FXCM,人民币美元汇率,CHN,USDCNH.FXCM,currency,D:\PythonSpace\Dasboard_Quant\00_database\MyQuantGlobal.db,GLOBAL
